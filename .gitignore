@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+ml_env/
+.env/
+*.pth
+*.pt
+*.ipynb_checkpoints
